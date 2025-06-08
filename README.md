@@ -1,6 +1,6 @@
 # JARVIS---Voice-Assistant
  JARVIS is an intelligent, voice-activated personal assistant that enables users to interact with their systems using  natural language.
-# 🤖 JARVIS - Voice Assistant
+# 🤖 JARVIS - Voice Assistant.
 
 JARVIS is an advanced voice assistant built using **Python**, **Eel.js**, **HTML**, and **CSS**, capable of handling real-time tasks and open-ended conversations. It integrates Deep Learning, APIs, and voice interaction to deliver a smart, responsive assistant experience.
 
