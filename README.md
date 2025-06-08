@@ -22,9 +22,9 @@ JARVIS is an advanced voice assistant built using **Python**, **Eel.js**, **HTML
 ## 🧠 AI & NLP
 
 - **Custom Intent Handling**:
-  - Deep Learning model trained on static queries (e.g. greetings, creator name)
-  - Preprocessing: Tokenization, Lemmatization, Bag-of-Words
-  - Model: Simple Feedforward Neural Network using Keras
+  - Deep Learning model trained on static queries (e.g. greetings, creator name).
+  - Preprocessing: Tokenization, Lemmatization, Bag-of-Words.
+  - Model: Simple Feedforward Neural Network using Keras.
 - **General Conversation**:
   - Powered by Hugging Face Transformers for dynamic queries
 - **Smart Routing**:
